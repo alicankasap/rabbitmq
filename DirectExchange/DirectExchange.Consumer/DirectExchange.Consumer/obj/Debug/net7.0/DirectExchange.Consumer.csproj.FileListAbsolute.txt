@@ -1,0 +1,17 @@
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\bin\Debug\net7.0\DirectExchange.Consumer.exe
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\bin\Debug\net7.0\DirectExchange.Consumer.deps.json
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\bin\Debug\net7.0\DirectExchange.Consumer.runtimeconfig.json
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\bin\Debug\net7.0\DirectExchange.Consumer.dll
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\bin\Debug\net7.0\DirectExchange.Consumer.pdb
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\DirectExchange.Consumer.csproj.AssemblyReference.cache
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\DirectExchange.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\DirectExchange.Consumer.AssemblyInfoInputs.cache
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\DirectExchange.Consumer.AssemblyInfo.cs
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\DirectExchange.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\DirectExchange.Consumer.csproj.CopyComplete
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\DirectExchange.Consumer.dll
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\refint\DirectExchange.Consumer.dll
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\DirectExchange.Consumer.pdb
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\DirectExchange.Consumer.genruntimeconfig.cache
+C:\Users\alica\Desktop\RabbitMQ\DirectExchange\DirectExchange.Consumer\DirectExchange.Consumer\obj\Debug\net7.0\ref\DirectExchange.Consumer.dll
