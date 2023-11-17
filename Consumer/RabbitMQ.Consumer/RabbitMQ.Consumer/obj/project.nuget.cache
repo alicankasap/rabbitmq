@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6yN93gUutOeR03DEzexw/Wv6zQyTorqSb5J2V0eKtv235u9Tm3UpkAvwZzykR+O8wwICl5yqZhw9PHXi1eVamQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alica\\Desktop\\RabbitMQ\\Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alica\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\alica\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\alica\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.exe
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.deps.json
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.runtimeconfig.json
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.dll
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.pdb
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.csproj.AssemblyReference.cache
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.AssemblyInfoInputs.cache
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.AssemblyInfo.cs
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.csproj.CopyComplete
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.dll
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\refint\RabbitMQ.Consumer.dll
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.pdb
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.genruntimeconfig.cache
+C:\Users\alica\Desktop\RabbitMQ\Consumer\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\ref\RabbitMQ.Consumer.dll
